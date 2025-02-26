@@ -1,4 +1,4 @@
-# 🚀 README: Leveraging Linear Regression for Financial Trend Analysis
+# 🚀 Leveraging Linear Regression for Financial Trend Analysis
 
 This article demonstrates how linear regression can be used as a powerful tool in financial analysis, particularly for modeling and forecasting stock price trends. It explains the process of retrieving and analyzing data from sources like the NYSE and illustrates the method through a simulated Python example. The goal is to showcase the simplicity, interpretability, and effectiveness of linear regression—making it an essential technique for data science professionals and recruiters in the finance sector.
 
